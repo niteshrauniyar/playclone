@@ -18,7 +18,7 @@ email: {
     lowercase: true,
     trim: true
 },
-fullname : {
+fullName : {
     type:String,
     required:true,
     trim:true,
@@ -29,7 +29,7 @@ avator: {
     required: true
 },
 coverimage: {
-    type:string //cludinary url
+    type:String //cludinary url
 },
 watchhistory: [
     {
